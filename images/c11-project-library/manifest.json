@@ -1,0 +1,28 @@
+{
+  "id": "c11-project-library",
+  "files": [
+    {
+      "file": "assets/social/rendered/c11-project-library/01.png",
+      "sha256": "ef747b7daf22e25bfb9b57ff510ece39ad1bbaccb43da0400d6571e397e1c2ba",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c11-project-library/02.png",
+      "sha256": "8ac20f36773e761224d0c8dc5ecf847eed7d893ceda9df88114ac58a683a08fe",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c11-project-library/03.png",
+      "sha256": "da9db3d4dd0f1cdf2b7297f3dcc41f0f8e8ea964d9e93a28908377233180a5c2",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c11-project-library/04.png",
+      "sha256": "f65b960d127830ad7470dddc0a0553da93a51f0433e3e4dd2617ce66ef763228",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:41.936Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

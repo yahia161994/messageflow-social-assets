@@ -1,0 +1,13 @@
+{
+  "id": "s03-faq",
+  "files": [
+    {
+      "file": "assets/social/rendered/s03-faq/01.png",
+      "sha256": "7b7955dfa74cee50e75c081fa1e62df431277e8864ac295aa4b29faded6f0724",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:45.338Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

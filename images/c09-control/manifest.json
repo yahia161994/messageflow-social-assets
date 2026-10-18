@@ -1,0 +1,33 @@
+{
+  "id": "c09-control",
+  "files": [
+    {
+      "file": "assets/social/rendered/c09-control/01.png",
+      "sha256": "148b4db7917f9e517435c72f8e0714de8798988fe9e35a9720a927f7ae403861",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c09-control/02.png",
+      "sha256": "7b9e66d4a6d85b434716a717cfcad6b894118f687ea49b17c524156659ee4aa5",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c09-control/03.png",
+      "sha256": "888a6c49cbcc09322eee423f8e68e711a44b73cade81d98b2ad9d9ebf1e96e59",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c09-control/04.png",
+      "sha256": "ebb7a49a9f9a981e535c7110921fae0d7f37479568ecce06cd06c7915a0595aa",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c09-control/05.png",
+      "sha256": "fbdaf363b6974a2b40433e19b9d9d8a90af901bf2c775b2968bd87e7e1062a85",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:37.034Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

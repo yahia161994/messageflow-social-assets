@@ -1,0 +1,38 @@
+{
+  "id": "c05-ai-assistant",
+  "files": [
+    {
+      "file": "assets/social/rendered/c05-ai-assistant/01.png",
+      "sha256": "a8d7ee09ab55496020652fabcc0e68a297ab6567da1e5ca9b6144a3d0dfb6eb8",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c05-ai-assistant/02.png",
+      "sha256": "380ce3121c0ffb70d0bfa77f51d2cc6003039368b64687ea3ba4c2b86d2e3035",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c05-ai-assistant/03.png",
+      "sha256": "6d50fcb372f4067ce0a82865a6a5d4b8424fcdd350394f85657ef2991cb8ee83",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c05-ai-assistant/04.png",
+      "sha256": "00a1252ed427ce127956467f8b8e1c36cc1bc0b2efbfdfbc857a0af7e83bdcd1",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c05-ai-assistant/05.png",
+      "sha256": "0712473187511f2850fd402891c2a5e43ab342f049d16e8552edd4a9e5cc8d81",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c05-ai-assistant/06.png",
+      "sha256": "abd59a62f10441ceeee61d82c9bf65a3bd59bc9a0fbf4006f89bf6e467d51726",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:26.200Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

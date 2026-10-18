@@ -1,0 +1,33 @@
+{
+  "id": "c06-market-intel",
+  "files": [
+    {
+      "file": "assets/social/rendered/c06-market-intel/01.png",
+      "sha256": "c1e4b6cd1aa8ae82a0d12bee0a2a025d02f6cff36617b75f0249591c27c26b2d",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c06-market-intel/02.png",
+      "sha256": "97446be855d79e456c71a00a39de92a71de3e90d22b42c33392ea101b8991b4d",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c06-market-intel/03.png",
+      "sha256": "c55270fd980873496d4ce73e498f0738663d3b2d64b30dc885af515ab11b3017",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c06-market-intel/04.png",
+      "sha256": "31615e044e409e28ab34dceb2677f91e4c582c32f504df76e88afd71474b2d80",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c06-market-intel/05.png",
+      "sha256": "fbdaf363b6974a2b40433e19b9d9d8a90af901bf2c775b2968bd87e7e1062a85",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:28.936Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

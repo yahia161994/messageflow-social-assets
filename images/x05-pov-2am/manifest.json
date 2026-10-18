@@ -1,0 +1,13 @@
+{
+  "id": "x05-pov-2am",
+  "files": [
+    {
+      "file": "assets/social/rendered/x05-pov-2am/01.png",
+      "sha256": "6fd453bc028d9f71f7d1942941820f56b3d41f23df3d5b1a43c71ae26371a861",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:48.729Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

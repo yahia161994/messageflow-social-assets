@@ -1,0 +1,13 @@
+{
+  "id": "s01-whats-new",
+  "files": [
+    {
+      "file": "assets/social/rendered/s01-whats-new/01.png",
+      "sha256": "ae18a2032dc12732fe006e3f47e439f42e6f10bb45bf813111718a61359e9935",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:44.369Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

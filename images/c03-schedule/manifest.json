@@ -1,0 +1,33 @@
+{
+  "id": "c03-schedule",
+  "files": [
+    {
+      "file": "assets/social/rendered/c03-schedule/01.png",
+      "sha256": "8a0c2531933f57933d877463774a5b504085873f0d0db485b1b06a478f8274fa",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c03-schedule/02.png",
+      "sha256": "3f9bd7a540d8d95e3fefeaff796536b6074d77c126373279f38480ca97d50029",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c03-schedule/03.png",
+      "sha256": "c4ba2f544236cd94bad3ca1cc9c4df9e7110cbe3d6f8befd4cfb4de34dea4460",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c03-schedule/04.png",
+      "sha256": "68838cc9a84210c4371051422d8ee4b4072bfa39224ae75d186c9a4cf0a369d2",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c03-schedule/05.png",
+      "sha256": "fbdaf363b6974a2b40433e19b9d9d8a90af901bf2c775b2968bd87e7e1062a85",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:20.077Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

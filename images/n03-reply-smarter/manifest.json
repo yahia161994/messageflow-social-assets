@@ -1,0 +1,13 @@
+{
+  "id": "n03-reply-smarter",
+  "files": [
+    {
+      "file": "assets/social/rendered/n03-reply-smarter/01.png",
+      "sha256": "a41404701f16d4474026764d66f0afc1350fe524ae634d9777e299665f144877",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:08:40.777Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "x02-chat-language",
+  "files": [
+    {
+      "file": "assets/social/rendered/x02-chat-language/01.png",
+      "sha256": "47de8ec9694b1eb27a6435ecb4de0029b1fd2c50f382bdb8919851ead839a5b1",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:47.155Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

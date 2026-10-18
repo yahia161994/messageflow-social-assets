@@ -1,0 +1,13 @@
+{
+  "id": "n06-library",
+  "files": [
+    {
+      "file": "assets/social/rendered/n06-library/01.png",
+      "sha256": "a7e914648ea631da0ba896f43c107268f42b92e0c60fcc6090acc94dbe4ccd7d",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:08:42.719Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

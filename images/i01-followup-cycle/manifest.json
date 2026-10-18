@@ -1,0 +1,13 @@
+{
+  "id": "i01-followup-cycle",
+  "files": [
+    {
+      "file": "assets/social/rendered/i01-followup-cycle/01.png",
+      "sha256": "5e63740dacec909101dff8f295e918a7d7733cfd70481f067bab53c00c0a04ac",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:13.496Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

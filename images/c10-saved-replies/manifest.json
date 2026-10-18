@@ -1,0 +1,28 @@
+{
+  "id": "c10-saved-replies",
+  "files": [
+    {
+      "file": "assets/social/rendered/c10-saved-replies/01.png",
+      "sha256": "c82a8725adaef68175cff6cca1c5992c471319b8060ca991e2265ff772ad29c1",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c10-saved-replies/02.png",
+      "sha256": "501bca6e8b41573e494660e83e794f19abfadc6535aefc8818b980522fc983d6",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c10-saved-replies/03.png",
+      "sha256": "dd3a274cc1e86da7170c4bfaba420a3a83795fe44101c2cc5b71d5812f280661",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c10-saved-replies/04.png",
+      "sha256": "f65b960d127830ad7470dddc0a0553da93a51f0433e3e4dd2617ce66ef763228",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:39.613Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

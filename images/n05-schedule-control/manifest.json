@@ -1,0 +1,13 @@
+{
+  "id": "n05-schedule-control",
+  "files": [
+    {
+      "file": "assets/social/rendered/n05-schedule-control/01.png",
+      "sha256": "0ad3ee5ddbe0e734242f506a396bb44e5e10f3bad0b309966886f5f811b2df51",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:08:42.113Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

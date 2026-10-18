@@ -1,0 +1,13 @@
+{
+  "id": "x04-before-after",
+  "files": [
+    {
+      "file": "assets/social/rendered/x04-before-after/01.png",
+      "sha256": "f5d55529c7b18263ba5e64aa5ecadaed8e348a9be8f31d63387183264d15a08c",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:48.285Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

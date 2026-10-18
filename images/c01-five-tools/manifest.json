@@ -1,0 +1,43 @@
+{
+  "id": "c01-five-tools",
+  "files": [
+    {
+      "file": "assets/social/rendered/c01-five-tools/01.png",
+      "sha256": "51ef33de3ca643509ac74bed389c8b3e420c022aea6bfdf17237547b3e73c86e",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c01-five-tools/02.png",
+      "sha256": "ca1a734e24277beb506865ded28d7a3396e948fab6cea5276c92a6203c5df3ff",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c01-five-tools/03.png",
+      "sha256": "db4364066339eb4da7aab4ce6b5eec27685b79b0e3834d206fa20007c8a90876",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c01-five-tools/04.png",
+      "sha256": "2d9d18709104b91a5be29ff0d299ba7b571effaa4b33c91b11ddb44e1f8698b0",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c01-five-tools/05.png",
+      "sha256": "dceea5aae90c3c0c40f743b270f7d2e6d3e93016231ecedb2fec3fe741e59d05",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c01-five-tools/06.png",
+      "sha256": "dc9f49c2f614555d4df622a489f3a068060fa0f365e97b126a07c357d2c646ac",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c01-five-tools/07.png",
+      "sha256": "f334070ce85ddf0b7a04fcc9119b52fa063ecaaf4f4c4e12923a8327cc3bb165",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:13.029Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "x08-device",
+  "files": [
+    {
+      "file": "assets/social/rendered/x08-device/01.png",
+      "sha256": "1949f6207922f94f778b4bc695f62dea6e89fd4316d0f8abf93eec852512591a",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:50.442Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

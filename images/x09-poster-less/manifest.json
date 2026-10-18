@@ -1,0 +1,23 @@
+{
+  "id": "x09-poster-less",
+  "files": [
+    {
+      "file": "assets/social/rendered/x09-poster-less/01.png",
+      "sha256": "99f7cfbc0bfdd0a210ed6ca1caaee108da69af1d6f2440c4a708b985ed35939b",
+      "overflow": {
+        "over": 120,
+        "contentBottom": 1240,
+        "kids": [
+          1360,
+          430,
+          525,
+          846,
+          939
+        ]
+      }
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:51.025Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c08-mistakes",
+  "files": [
+    {
+      "file": "assets/social/rendered/c08-mistakes/01.png",
+      "sha256": "8d745fb6f0e12c1c8913444704b43cd9fd5864ae631dacee5b4bb2c271380f16",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c08-mistakes/02.png",
+      "sha256": "52588208767a737cee18ef8bbfe0c72e130ca14a9f45f87700a1c34f3fd36f5d",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c08-mistakes/03.png",
+      "sha256": "0c8ffc1c6a3b5ba71aec01f38e01c5e5944a66c62664d741594c69770f6d1167",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c08-mistakes/04.png",
+      "sha256": "ec5678a51f04a63ab87ddcb75ca7fb7fa816647c949f3a7a4c5e11298ec16394",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:34.020Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

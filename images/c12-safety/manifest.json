@@ -1,0 +1,23 @@
+{
+  "id": "c12-safety",
+  "files": [
+    {
+      "file": "assets/social/rendered/c12-safety/01.png",
+      "sha256": "960a94bf151150493bec22e4fc0c7631ef34f93450200757ddaf76318757088e",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c12-safety/02.png",
+      "sha256": "f0144cace3462bd990fdbc2298e5f1b22d775d232a323f5f37d5ee46e8afbf5d",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c12-safety/03.png",
+      "sha256": "e13608f6dfe336ae132dd1fdbe9a5200920e341c4c3a3c53e36524847f967895",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:43.856Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c07-groups",
+  "files": [
+    {
+      "file": "assets/social/rendered/c07-groups/01.png",
+      "sha256": "a2ccebd2a214b1d172c0cae9271cd9f25a0e728874970518b044711151ac53b3",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c07-groups/02.png",
+      "sha256": "f889547ec2274043cd658149a9a5db7230a01c2116e40bac79cbea47159e1b84",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c07-groups/03.png",
+      "sha256": "45bfa53a23481c418181a18fc66b1e4a7d6325d6836f17f530b1b6431da783e1",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c07-groups/04.png",
+      "sha256": "ad532abd7edbe986ad4dda90d7c2fcb4d07e39b4eb88c562ce75869ba785e030",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c07-groups/05.png",
+      "sha256": "fbdaf363b6974a2b40433e19b9d9d8a90af901bf2c775b2968bd87e7e1062a85",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:31.699Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

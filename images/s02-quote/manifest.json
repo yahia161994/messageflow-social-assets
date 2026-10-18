@@ -1,0 +1,13 @@
+{
+  "id": "s02-quote",
+  "files": [
+    {
+      "file": "assets/social/rendered/s02-quote/01.png",
+      "sha256": "c1436f4d8e4cddeed165cd847676dae67d4c2015b38212e1f5bc6cccbc27b206",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:44.861Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

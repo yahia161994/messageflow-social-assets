@@ -1,0 +1,24 @@
+{
+  "id": "x01-poster-night",
+  "files": [
+    {
+      "file": "assets/social/rendered/x01-poster-night/01.png",
+      "sha256": "34fa0e16a697485f54d0cd5e2c769e3196c232b97bdea8b1867ab09968e6d9cb",
+      "overflow": {
+        "over": 120,
+        "contentBottom": 1240,
+        "kids": [
+          1360,
+          430,
+          490,
+          789,
+          882,
+          974
+        ]
+      }
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:46.431Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "n01-hero-one-place",
+  "files": [
+    {
+      "file": "assets/social/rendered/n01-hero-one-place/01.png",
+      "sha256": "a328e4829c948b60582e05e041bf9d8c02b28ca4c8d539065ce768b1e3535ec7",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:08:39.415Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

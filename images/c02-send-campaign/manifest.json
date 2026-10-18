@@ -1,0 +1,38 @@
+{
+  "id": "c02-send-campaign",
+  "files": [
+    {
+      "file": "assets/social/rendered/c02-send-campaign/01.png",
+      "sha256": "8424dab1844d7ff049ec7586ffcbb051ed8018a9ea2af4e3212f4dfed469c41d",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c02-send-campaign/02.png",
+      "sha256": "c0ccdaa59d8173799a595635ec2b5dc555864359b0e3bb983dbd018ae0759aa6",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c02-send-campaign/03.png",
+      "sha256": "83f54790e96dc7ce6d31c1ef31d6628f2c88299b3a4bd6e0adc95e1837da5231",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c02-send-campaign/04.png",
+      "sha256": "ed5e2f03deb2fd5deb8959c1aef6a4147395c51816ea36f9ee7569719f2a2357",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c02-send-campaign/05.png",
+      "sha256": "c9a7b031e89d3ac6fd564b9dabc34d91d08cc8a05ffb5da9ae442c3502e7b488",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c02-send-campaign/06.png",
+      "sha256": "abd59a62f10441ceeee61d82c9bf65a3bd59bc9a0fbf4006f89bf6e467d51726",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:16.895Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

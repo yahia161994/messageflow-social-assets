@@ -1,0 +1,13 @@
+{
+  "id": "i02-campaign-plan",
+  "files": [
+    {
+      "file": "assets/social/rendered/i02-campaign-plan/01.png",
+      "sha256": "3360eee4ef74f79aaf2f802443c090ea6c976238117e27fc398823d07b54b149",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:45.897Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c04-turbo",
+  "files": [
+    {
+      "file": "assets/social/rendered/c04-turbo/01.png",
+      "sha256": "58cefc72271aceb9d1b24f60846735c01547f491187ea624ce948b9462df9879",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c04-turbo/02.png",
+      "sha256": "87210bf52690695284760bc2ba43ed2d0919e448b836060741c9c71eef8e9b8e",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c04-turbo/03.png",
+      "sha256": "135ca1942e9b0d8eb86abee1dc0a8174746197a087ffa24d6097c2b42039299a",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c04-turbo/04.png",
+      "sha256": "336803110b5d263cb22a9e1c2176f72cc78dcba6da2b8619ae3e8153d5983dca",
+      "overflow": false
+    },
+    {
+      "file": "assets/social/rendered/c04-turbo/05.png",
+      "sha256": "fbdaf363b6974a2b40433e19b9d9d8a90af901bf2c775b2968bd87e7e1062a85",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T10:03:22.979Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}
