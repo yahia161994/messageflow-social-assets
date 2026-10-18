@@ -1,0 +1,13 @@
+{
+  "id": "x06-glass-mi-en",
+  "files": [
+    {
+      "file": "assets/social/rendered/x06-glass-mi-en/01.png",
+      "sha256": "01329f1db2a84bd487c572d4eee0edb8774163952b49477d422e86a4208f1253",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T13:55:06.497Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

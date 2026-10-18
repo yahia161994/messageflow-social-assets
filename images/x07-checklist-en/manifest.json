@@ -1,0 +1,13 @@
+{
+  "id": "x07-checklist-en",
+  "files": [
+    {
+      "file": "assets/social/rendered/x07-checklist-en/01.png",
+      "sha256": "57d66a7838df9a522312d2fbd2e7121db7d2f66c2967f24f602ea3ff81494c3c",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T13:56:56.963Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

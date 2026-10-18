@@ -1,0 +1,13 @@
+{
+  "id": "n02-inquiry-to-followup-en",
+  "files": [
+    {
+      "file": "assets/social/rendered/n02-inquiry-to-followup-en/01.png",
+      "sha256": "29c3ed4e1959f630f9a0c69cb0d3d9c05bda13ca92b10b24b695d4eb72abc07a",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T13:55:07.077Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}

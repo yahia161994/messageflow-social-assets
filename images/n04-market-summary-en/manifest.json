@@ -1,0 +1,13 @@
+{
+  "id": "n04-market-summary-en",
+  "files": [
+    {
+      "file": "assets/social/rendered/n04-market-summary-en/01.png",
+      "sha256": "7c2a12b70321074e84c681404ae821ada0154a190c4cd47b785e9752c4682187",
+      "overflow": false
+    }
+  ],
+  "renderedAt": "2026-10-18T13:55:06.051Z",
+  "source": "scripts/social/render.mjs",
+  "provenance": "EDITED_COMPOSITE (real UI frames + typeset)"
+}
